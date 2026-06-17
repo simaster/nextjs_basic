@@ -15,6 +15,7 @@
 
 # log
 /log
+/logs
 
 # next.js
 /.next/
